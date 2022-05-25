@@ -8,4 +8,4 @@ file 6 create a directory called my_first_directory
 file 7 move betty from tmp to /tmp/my_first_directory
 file 8 remove betty from /tmp/my_first_directory
 file 9 remove /tmp/my_first_directory
-
+file 10 go back a directory
