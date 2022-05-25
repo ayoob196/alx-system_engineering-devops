@@ -5,4 +5,5 @@ file 3 list items with their details
 file 4 list hidden items with their details
 file 5 list IDs of users and groups of a file
 file 6 create a directory called my_first_directory
+file 7 move betty from tmp to /tmp/my_first_directory
 
