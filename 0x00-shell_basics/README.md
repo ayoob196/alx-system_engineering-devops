@@ -10,3 +10,4 @@ file 8 remove betty from /tmp/my_first_directory
 file 9 remove /tmp/my_first_directory
 file 10 go back a directory
 file 11 list content of working directory, pratent directory and root
+filw 12 script that prints the type of the file named iamafile
