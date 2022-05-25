@@ -11,4 +11,5 @@ file 9 remove /tmp/my_first_directory
 file 10 go back a directory
 file 11 list content of working directory, pratent directory and root
 filw 12 script that prints the type of the file named iamafile
+file 13 symbolic link to ls
 file 14 copies all the HTML files from the current working directory to the parent of the working directory
