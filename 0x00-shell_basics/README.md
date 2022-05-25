@@ -3,3 +3,4 @@ file 1 list the items in the working directory
 file 2 change directory to home
 file 3 list items with their details
 file 4 list hidden items with their details
+file 5 list IDs of users and groups of a file
