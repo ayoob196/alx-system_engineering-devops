@@ -5,3 +5,4 @@ file 3 change owner
 file 4 create an empty file
 file 5  add execute permission
 file 6 chmod multiple
+file 7 add permision to everyone
