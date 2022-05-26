@@ -11,3 +11,4 @@ file 9 754 permission to hello file
 file 10 mirror permisson
 file 11 change permission of all sub directories
 file 12 mkdir with 751 permissions called my_dir
+file 13 change group of file hello to school group
