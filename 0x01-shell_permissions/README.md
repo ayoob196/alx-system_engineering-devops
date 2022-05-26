@@ -6,3 +6,4 @@ file 4 create an empty file
 file 5  add execute permission
 file 6 chmod multiple
 file 7 add permision to everyone
+file 8 007 permission to hello file
