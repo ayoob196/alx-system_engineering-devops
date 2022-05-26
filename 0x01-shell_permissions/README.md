@@ -9,3 +9,4 @@ file 7 add permision to everyone
 file 8 007 permission to hello file
 file 9 754 permission to hello file
 file 10 mirror permisson
+file 11 change permission of all sub directories
