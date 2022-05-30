@@ -5,3 +5,4 @@ file 3 display /etc/passwd and /etc/hosts
 file 4 last 10  lines of passwd
 file 5 first 10 lines of passwd
 file 6 display third line
+file 7 create a file with a weird name conatins "Best School
