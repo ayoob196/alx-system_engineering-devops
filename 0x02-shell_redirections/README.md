@@ -13,4 +13,5 @@ file 11 count dirctories
 file 12 print last 10 files
 file 13 unique output
 file 14 print line with "root"
-file 15 count lines with "bin" 
+file 15 count lines with "bin"
+file 16 display three line with "root" 
