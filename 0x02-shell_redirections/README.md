@@ -15,4 +15,5 @@ file 13 unique output
 file 14 print line with "root"
 file 15 count lines with "bin"
 file 16 display three line with "root"
-file 17 display lines don't have "bin" 
+file 17 display lines don't have "bin"
+file 18 Display all lines of the file /etc/ssh/sshd_config starting with a letter 
