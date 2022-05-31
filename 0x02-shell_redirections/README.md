@@ -10,4 +10,5 @@ file 8 copy the result of ls -la to a file
 file 9 dupluicate last line
 file 10 remove js files
 file 11 count dirctories 
-file 12 print last 10 files 
+file 12 print last 10 files
+file 13 unique output 
