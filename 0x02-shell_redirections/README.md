@@ -20,3 +20,4 @@ file 18 Display all lines of the file /etc/ssh/sshd_config starting with a lette
 file 19 replace 
 file 20 remove c and C
 file 21 reverse input
+file 22 sort by users
