@@ -12,4 +12,5 @@ file 10 remove js files
 file 11 count dirctories 
 file 12 print last 10 files
 file 13 unique output
-file 14 print line with "root" 
+file 14 print line with "root"
+file 15 count lines with "bin" 
