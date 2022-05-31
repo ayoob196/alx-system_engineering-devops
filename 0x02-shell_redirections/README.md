@@ -7,4 +7,5 @@ file 5 first 10 lines of passwd
 file 6 display third line
 file 7 create a file with a weird name conatins "Best School
 file 8 copy the result of ls -la to a file
-file 9 dupluicate last line  
+file 9 dupluicate last line
+file 10 remove js files  
